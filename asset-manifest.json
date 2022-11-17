@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coinews-react-tailwindcss/static/css/main.bd7c02c4.css",
+    "main.js": "/coinews-react-tailwindcss/static/js/main.af512083.js",
+    "index.html": "/coinews-react-tailwindcss/index.html",
+    "main.bd7c02c4.css.map": "/coinews-react-tailwindcss/static/css/main.bd7c02c4.css.map",
+    "main.af512083.js.map": "/coinews-react-tailwindcss/static/js/main.af512083.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd7c02c4.css",
+    "static/js/main.af512083.js"
+  ]
+}
